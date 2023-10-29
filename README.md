@@ -8,7 +8,8 @@ Kemudian, sumber-sumber gambar yang digunakan pada program ini dapat dilihat di 
 Program ini dibuat untuk menyimulasikan mesin kasir pada supermarket.
 Dikarenakan program ini tidak terhubung dengan scanner, pembacaan produk dilakukan secara manual dengan memasukkan kode setiap produk yang dapat dilihat pada menu "Produk".
 Ketika pembacaan produk sudah selesai dilakukan, program akan menghitungkan besar serta jumlah lembaran uang kembalian berdasarkan uang tunai yang diberikan pembeli.
-Setelah selesai melakukan pembayaran, program akan mencetak struk pembelian yang berisi seluruh produk yang berhasil dibeli serta promo dan diskon yang digunakan.
+Setelah selesai melakukan pembayaran, program akan mencetak struk pembelian yang berisi seluruh produk yang berhasil dibeli serta promo dan diskon yang telah digunakan.
+Pada program ini juga diimplementasikan fitur "randomize" yang berguna untuk mengacak jumlah produk, bentuk diskon, dan promo aktif yang berlaku.
 ## Versi Program
 Pada depositori ini terdapat tiga versi program yang telah dibuat:
 - v1.0 merupakan program yang dibuat tanpa menggunakan library ataupun fonts eksternal apa pun. Versi ini sekaligus menjadi versi yang dikumpulkan pada pengumpulan tugas besar 1.
