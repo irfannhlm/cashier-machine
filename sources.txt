@@ -1,0 +1,31 @@
+
+------------ICONS----------
+cashier_icon: https://www.flaticon.com/free-icon/cashier-machine_1546565
+
+info_icon: https://www.flaticon.com/free-icon/info_189664
+
+help_icon: https://www.flaticon.com/free-icon/question_189665
+
+cash_icon: https://www.flaticon.com/free-icon/money_639365
+
+products_icon: https://www.flaticon.com/free-icon/shopping-bag_3514242
+
+
+
+------------FONTS-----------
+digital-7:
+
+AUTHOR
+-====-
+Sizenko Alexander
+Style-7
+http://www.styleseven.com
+Created: October 7 2008
+
+
+Oretans Shadow:
+
+Oretans Shadow Regular
+Version 1.000
+True Type Font
+Copyright © 2019 by Andi Winarno - Inkstypia. All rights reserved.

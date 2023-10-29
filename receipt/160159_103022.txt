@@ -1,0 +1,19 @@
+
+       STEI-Mart 210028138008118       
+    Jl. Ganesa No.10, Lb. Siliwangi    
+ Kecamatan Coblong, Kota Bandung, 40132 
+----------------------------------------
+      Sun Oct 30 16:01:59 WIB 2022      
+----------------------------------------
+              Beras   1  50,000   50,000
+----------------------------------------
+                     Harga Jual:  50,000
+                   Total Diskon: -10,000
+----------------------------------------
+                    Harga Total:  40,000
+                     Uang Tunai:  50,000
+                      Kembalian:  10,000
+----------------------------------------
+TERIMA KASIH TELAH BELANJA DI STEI-MART!
+ Jika terdapat kecacatan pada program, 
+    harap segera hubungi 0813829553    
